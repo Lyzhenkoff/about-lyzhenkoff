@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Все обо мне</title>
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption&display=swap" rel="stylesheet">
+  <style>
+    body, html, .all-container, .all-container-object, .image-container {
+      margin: 0;
+      height: 100%;
+      max-height: 1000px;
+    }
+
+    .image {
+      border-radius: 50%;
+      width: 200px;
+    }
+
+    .name {
+      font-size: 50px;
+    }
+
+    .all-container-object {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    .name, .skills, .about-me {
+      font-family: 'PT Sans Caption', sans-serif;
+    }
+
+    .about-me {
+      display: flex;
+      text-align: center;
+      font-size: 15px;
+    }
+
+    a {
+      color: black;
+    }
+  </style>
+</head>
+<body>
+<div class="all-container">
+  <div class="all-container-object">
+    <img class="image" src="image.jpg">
+    <div class="name">Лыженков Кирилл</div>
+    <div class='about-me'>
+      C 2018 года занимаюсь Web разработкой.<br>
+      В ноябре 2018 получил свой первый заказ.<br>
+      А в сентябре 2019 года пошел в клуб веб-разработчиков<br>
+      при университете ИТМО. Сейчас нахожусь на испытательном сроке
+    </div>
+    <br>
+    <div class="skills">
+      Навыки: HTML,CSS,JS,Webpack,LESS
+    </div>
+
+    <br>
+    <a href='malito:kirilllyzhenkoff@gmail.com'>
+      kirilllyzhenkoff@gmail.com
+    </a>
+  </div>
+</div>
+
+</body>
+</html>
