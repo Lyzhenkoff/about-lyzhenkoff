@@ -1,3 +1,3 @@
 # Lyzhennkof
 
-Hi!My name is Kirill.And I am Wb-developer
+Hi!My name is Kirill.And I am Web-developer
