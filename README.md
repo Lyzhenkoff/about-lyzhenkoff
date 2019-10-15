@@ -12,4 +12,6 @@ Hi!My name is Kirill.And I am Web-developer
 
 🧐 LESS
 
-🤯Web Audio API
+🤯 Web Audio API
+
+🐍 Python 
