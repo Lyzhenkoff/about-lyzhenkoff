@@ -2,7 +2,8 @@
 
 Hi!My name is Kirill.And I am Web-developer.
 
-’’’
+```
+
 🤪 HTML
 
 🤩 CSS
@@ -19,6 +20,6 @@ Hi!My name is Kirill.And I am Web-developer.
 
 🙃ES6
 
-’’’
+``
 
 @lyzhenkoff
