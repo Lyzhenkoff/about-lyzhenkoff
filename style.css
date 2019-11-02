@@ -1,8 +1,4 @@
-body, html, .all-container, .all-container-object, .image-container {
-    margin: 0;
-    height: 100%;
-    max-height: 3000px;
-}
+
 
 .image {
     border-radius: 50%;
