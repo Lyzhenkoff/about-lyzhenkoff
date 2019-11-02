@@ -35,5 +35,14 @@ body, html, .all-container, .all-container-object, .image-container {
 }
 
 a {
-    color: black;
+    color: black !important;
+}
+
+.vk-logo {
+    width: 25px;
+    height: auto;
+}
+.gif-1{
+    width: 50px;
+    height: auto;
 }
