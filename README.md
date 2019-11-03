@@ -24,6 +24,6 @@ TypeScript
 
 ```
 
-![alt text](gif-4.gif)
+![alt text](https://cut.sx/tw3otg/)
 
 @lyzhenkoff
