@@ -24,6 +24,6 @@ TypeScript
 
 ```
 
-[alt](gif-4.gif)
+![alt text](gif-4.gif)
 
 @lyzhenkoff
