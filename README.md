@@ -24,6 +24,6 @@ TypeScript
 
 ```
 
-![alt text](https://cut.sx/tw3otg/)
+![alt text](https://wmpics.pics/di-R7HI.gif)
 
 @lyzhenkoff
