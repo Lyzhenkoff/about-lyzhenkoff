@@ -6,10 +6,27 @@
     <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption&display=swap" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     <style>
+        BODY.en .ru,
+        BODY.ru .en {
+            display: none
+        }
+
         .gif {
             width: 250px;
             height: auto;
             text-align: center;
+        }
+
+        .rus {
+            display: none !important;
+        }
+
+        .en {
+            display: none;
+        }
+
+        .eng {
+            display: inline-block !important;
         }
 
         .product {
@@ -22,30 +39,49 @@
 
         a {
             text-decoration: none !important;
-            s
+
         }
 
         body, html, .all-container, .all-container-object, .image-container {
             margin: 0;
-            height: 100%;
 
         }
+        .status-loading{
+            color: red;
+            font-size: 10px;
+        }
+        .status-yes{
+            color:green;
+            font-size: 10px;
+        }
+
     </style>
 </head>
 <body>
 <div class="all-container">
     <div class="all-container-object">
         <img class="image" src="image.jpg">
-        <div class="name">Лыженков Кирилл</div>
-        <div class='about-me'>
+        <div class="name ru" lang="ru">Лыженков Кирилл</div>
+        <div class="name en" lang="en">Lyzhenkov Kirill</div>
+        <div class='about-me ru' lang="ru">
             C 2018 года занимаюсь Web разработкой.<br>
             В ноябре 2018 получил свой первый заказ.<br>
             А в сентябре 2019 года пошел в клуб веб-разработчиков<br>
             при университете ИТМО.
         </div>
+        <div class='about-me en' lang="en">
+            Since 2018, I have been engaged in Web development.<br>
+            In November 2018, he received his first order.<br>
+            And in September 2019 he went to the club of web developers<br>
+             at ITMO University.
+        </div>
         <br>
-        <div class="skills">
+        <div class="skills ru">
             Навыки: HTML,CSS,JS,Webpack,LESS<br>
+            Web Audio API,Python,TypeScript
+        </div>
+        <div class="skills en">
+            Skills: HTML,CSS,JS,Webpack,LESS<br>
             Web Audio API,Python,TypeScript
         </div>
 
@@ -66,19 +102,23 @@
             </a>
         </div>
         <br>
-        <h2 style="font-family: 'PT Sans Caption', sans-serif;">Мои проекты</h2>
+        <h2 class="ru" style="font-family: 'PT Sans Caption', sans-serif;">Мои проекты</h2>
         <a href="https://github.com/Lyzhenkoff/hero-cat">
             <div>
                 <br>
 
-                <div class="product product-persik">
-                    <h3>Веб-игра "Персик-супергерой"</h3>
+                <div class="ru product product-persik">
+                    <h3 class="ru">Веб-игра "Персик-супергерой"</h3>
                     <img class="gif" src="gif-1.gif">
                     <div>
                         <br>
-                        <div class="txt-persik">
+                        <div class="ru txt-persik">
                             Игра про Персика.Помоги Персику пройти все тесты<br>
                             И найти лучшего друга - Командного духа
+                            <div class="status-loading">
+                                <br>
+                                [в разработке]
+                            </div>
                         </div>
                     </div>
 
@@ -88,18 +128,45 @@
         <a href="https://github.com/Lyzhenkoff/codex-melodi">
             <div class="product product-codex-melody">
 
-                <h3>Прототип синтезатора мелодий для команды CoodeX</h3>
+                <h3 class="ru">Прототип синтезатора мелодий для команды CoodeX</h3>
                 <img class="gif" src='gif-3.gif'>
 
-                <div>
+                <div class="ru">
                     <br>
                     Синтезатор спокойной мелодии,разработан прототип<br>
                     для вступительнгого испытание в команду веб - разработчиков CodeX
+                    <div class="status-yes">
+                        <br>
+                        [готово]
+                    </div>
                 </div>
             </div>
         </a>
+        <a href="https://github.com/Lyzhenkoff/hero-cat">
+            <div>
+                <br>
+
+                <div class="ru product product-persik">
+                    <h3 class="ru">Исследовательская работа<br> "Как Средства массовой информации,
+                    эстетика <br>и культура влияют на веб-разработку"</h3>
+                    <img class="gif" src="gif-5.gif">
+                    <div>
+                        <br>
+                        <div class="ru txt-persik">
+                            В этой работе ,я пишу о том как СМИ,эстетика и культура влияют на веб
+                            <div class="status-loading">
+                                <br>
+                                [в разработке]
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+        </a>
     </div>
+
 </div>
+
 </div>
 
 </body>
