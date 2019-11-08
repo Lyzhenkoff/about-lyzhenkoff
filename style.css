@@ -1,3 +1,56 @@
+BODY.en .ru,
+BODY.ru .en {
+    display: none
+}
+
+.gif {
+    width: 250px;
+    height: auto;
+    text-align: center;
+}
+
+.rus {
+    display: none !important;
+}
+
+.en {
+    display: none;
+}
+
+.eng {
+    display: inline-block !important;
+}
+
+.product {
+    background-color: #F9FAFB;
+    padding: 10px;
+    border-radius: 5%;
+    font-family: 'PT Sans Caption', sans-serif;
+    text-decoration: none !important;
+}
+
+a {
+    text-decoration: none !important;
+
+}
+
+body, html, .all-container, .all-container-object, .image-container {
+    margin: 0;
+
+}
+.status-loading{
+    color: red;
+    font-size: 10px;
+}
+.status-yes{
+    color:green;
+    font-size: 10px;
+}
+.year{
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
 
 
 .image {
