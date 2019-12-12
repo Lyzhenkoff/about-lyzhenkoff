@@ -21,7 +21,7 @@ Hi!My name is Kirill.I am Web-developer.
 
 🙃ES6
 
- TypeScript
+😇TypeScript
 
 ```
 
