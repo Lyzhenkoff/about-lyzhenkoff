@@ -25,10 +25,4 @@ Hi!My name is Kirill.I am Web-developer.
 
 ```
 
-
-
 ![alt text](https://wmpics.pics/di-R7HI.gif)
-
-
-
-
