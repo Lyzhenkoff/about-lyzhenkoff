@@ -9,7 +9,7 @@ Hi!My name is Kirill.I am Web-developer.And I would like to tell you abot my pro
 
 🤩 CSS
 
-😍 JS
+😘 JS
 
 😎 Webpack 
 
@@ -19,9 +19,11 @@ Hi!My name is Kirill.I am Web-developer.And I would like to tell you abot my pro
 
 🐍 Python 
 
-🙃ES6
+🙃 ES6
 
-😇TypeScript
+😇 TypeScript
+
+😍 React
 
 ```
 
