@@ -26,5 +26,3 @@ Hi!My name is Kirill.I am Web-developer.And I would like to tell you abot my pro
 😍 React
 
 ```
-
-![alt text](https://wmpics.pics/di-R7HI.gif)
