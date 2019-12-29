@@ -1,0 +1,100 @@
+BODY.en .ru,
+BODY.ru .en {
+    display: none
+}
+
+.gif {
+    width: 250px;
+    height: auto;
+    text-align: center;
+}
+
+.rus {
+    display: none !important;
+}
+
+.en {
+    display: none;
+}
+
+.eng {
+    display: inline-block !important;
+}
+
+.product {
+    background-color: #F9FAFB;
+    padding: 10px;
+    border-radius: 5%;
+    font-family: 'PT Sans Caption', sans-serif;
+    text-decoration: none !important;
+}
+
+a {
+    text-decoration: none !important;
+
+}
+
+body, html, .all-container, .all-container-object, .image-container {
+    margin: 0;
+
+}
+.status-loading{
+    color: red;
+    font-size: 10px;
+}
+.status-yes{
+    color:green;
+    font-size: 10px;
+}
+.year{
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.image {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.name {
+    font-size: 50px;
+}
+
+.all-container-object {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.name, .skills, .about-me {
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+.about-me {
+    display: flex;
+    text-align: center;
+    font-size: 15px;
+}
+
+.skills {
+    text-align: center;
+}
+
+a {
+    color: black !important;
+}
+
+.vk-logo {
+    width: 25px;
+    height: auto;
+}
+.gif-1{
+    width: 250px;
+    height: auto;
+}
+.product-persik{
+    background-color:#F9FAFB;
+}
