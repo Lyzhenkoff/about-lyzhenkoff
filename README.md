@@ -1,7 +1,6 @@
 # Lyzhennkof
 
-Hi!My name is Kirill.And I am Web-developer.
-
+Hi!My name is Kirill.I am Web-developer.And I would like to tell you abot my projects and me in this sait.
 
 
 ```
@@ -10,7 +9,7 @@ Hi!My name is Kirill.And I am Web-developer.
 
 🤩 CSS
 
-😍 JS
+😘 JS
 
 😎 Webpack 
 
@@ -20,16 +19,10 @@ Hi!My name is Kirill.And I am Web-developer.
 
 🐍 Python 
 
-🙃ES6
+🙃 ES6
 
- TypeScript
+😇 TypeScript
+
+😍 React
 
 ```
-
-
-
-![alt text](https://wmpics.pics/di-R7HI.gif)
-
-
-
-@lyzhenkoff
